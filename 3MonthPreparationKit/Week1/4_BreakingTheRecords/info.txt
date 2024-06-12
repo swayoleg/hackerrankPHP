@@ -1,0 +1,1 @@
+You need to know how pow function works and how to make a min or max flag in loop to determine minimum or maximum value.

@@ -1,0 +1,2 @@
+you need to know hoe explode and substr function works
+the same as in 3MonthPreparationKit  Week1 3_TimeConversion

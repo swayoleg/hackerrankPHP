@@ -1,0 +1,5 @@
+C;V;can of coke
+S;M;sweatTea()
+S;V;epsonPrinter
+C;M;santa claus
+C;C;mirror

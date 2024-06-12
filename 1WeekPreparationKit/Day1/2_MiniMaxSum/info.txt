@@ -1,0 +1,2 @@
+You need to know sort function and loops as foreach.
+The same as In 3MonthPreparationKit Week1 2_MiniMaxSum
