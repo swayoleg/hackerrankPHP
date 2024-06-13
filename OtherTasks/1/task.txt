@@ -1,0 +1,26 @@
+Task 1:
+Given an array of NN integers, find the number of subarrays that sum up to KK.
+
+Input: [7, 2, -5, 1, 1, -1, 5, -5] k=5
+so find the answer for the above input.
+
+So
+7+2-5+1 = 5
+7+2-5+1+1-1 = 5
+7+2-5+1+1-1+5-5 = 5
+1-1+5 = 5
+5=5
+
+
+output is 5
+
+Task 2: return not only number but the subarrays itself that sum up to K
+
+output is
+5
+and the subarrays are
+[7, 2, -5, 1]
+[7, 2, -5, 1, 1, -1]
+[7, 2, -5, 1, 1, -1, 5, -5]
+[1, -1, 5]
+[5]

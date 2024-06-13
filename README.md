@@ -5,6 +5,7 @@ This repository is structured to help you prepare for coding challenges. Each we
 
 ## Directory Structure example
 ```
+
 [3MonthPreparationKit]
     - [Week13]
         -[1_FindTheRunningMedian]
@@ -19,6 +20,16 @@ This repository is structured to help you prepare for coding challenges. Each we
                 - 3-input.txt
                 - 3-output.txt
         
+    [OtherTasks]
+    - 1
+        - solutionsInfo.md
+        - task.txt
+        - task1_solution1.php
+        - task1_solution2.php
+        - task1_solution3.php
+        - task2_solution1.php
+        - task2_solution2.php
+        - task2_solution3.php
 ```
 
 ### File Descriptions
@@ -36,7 +47,7 @@ php test.php
 ```
 
 ### Also there is a [1WeekPreparationKit](1WeekPreparationKit) which is just a sample, some of task are in [3MonthPreparationKit](3MonthPreparationKit)
-
+### At [OtherTasks](OtherTasks) you can find interesting tasks from different interviews and coding challenges.
 ## Coffee
 
     If you want to by me a coffee - just do it:
