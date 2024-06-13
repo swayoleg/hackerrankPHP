@@ -10,9 +10,8 @@ Count the subarrays whose sum equals KK.
 ### Idea: Use the prefix sum concept to reduce the time complexity.
 #### Implementation:
 Iterate through the array to calculate prefix sums.
-Store the sums in a hash map to keep track of their frequencies.
-For each element, compute the current prefix sum and check if the difference with KK exists in the hash map.
-If it exists, add the frequency to the count of valid subarrays.
+Use only two loops instead of three and loops now has borders
+Internal loop has a border of external one index - so we dont brut previos variants
 #### Complexity: O(N^2)O(N 2) - faster than the first solution.
 ## Solution 3: Optimal Approach using Hash Map
 ### Idea: Use a single pass algorithm with a hash map to store the frequency of prefix sums.
