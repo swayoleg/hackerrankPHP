@@ -93,6 +93,8 @@ This repository is structured to help you prepare for coding challenges. Each we
      - [2 Recursive Digit Sum](1WeekPreparationKit%2FDay4%2F2_RecursiveDigitSum)
      - [3 New Year Chaos](1WeekPreparationKit%2FDay4%2F3_NewYearChaos)
      - [4 Test](1WeekPreparationKit%2FDay4%2F4_Test)
+  - [Day7](1WeekPreparationKit%2FDay7)
+    -  [3 No Prefix Set](1WeekPreparationKit%2FDay7%2F3_NoPrefixSet)
 
 To run test navigate to folder and run php test.php
 Example:
