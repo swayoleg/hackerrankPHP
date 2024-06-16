@@ -1,5 +1,5 @@
 Task 1:
-Given an array of NN integers, find the number of subarrays that sum up to KK.
+Given an array of NN integers, find the number of subarrays that sum up to K.
 
 Input: [7, 2, -5, 1, 1, -1, 5, -5] k=5
 so find the answer for the above input.
