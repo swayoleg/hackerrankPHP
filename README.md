@@ -25,6 +25,8 @@ This repository is structured to help you prepare for coding challenges. Each we
   - [6 Counting Valleys](3MonthPreparationKit%2FWeek2%2F6_CountingValleys)
   - [7 Pangrams](3MonthPreparationKit%2FWeek2%2F7_Pangrams)
   - [9 Test Flipping The Matrix](3MonthPreparationKit%2FWeek2%2F9_TestFlippingTheMatrix)
+- [Week3](3MonthPreparationKit%2FWeek3)
+  -  [4 Sales By Match](3MonthPreparationKit%2FWeek3%2F4_SalesByMatch)
 - [Week12](3MonthPreparationKit%2FWeek12)
   - [6 No Prefix Set](3MonthPreparationKit%2FWeek12%2F6_NoPrefixSet)
 - [Week 13](3MonthPreparationKit%2FWeek13)
