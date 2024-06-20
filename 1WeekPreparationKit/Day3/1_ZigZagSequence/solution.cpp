@@ -1,0 +1,48 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+void findZigZagSequence(vector<int> a, int n) {
+    sort(a.begin(), a.end());
+
+    //middle
+    int mid = (n + 1) / 2 - 1;
+
+    // Swapping the middle element with the last element
+    swap(a[mid], a[n - 1]);
+
+    // Reverse the second half of the array to create the zigzag pattern
+    int st = mid + 1;
+    int ed = n - 2;
+    while (st <= ed) {
+        swap(a[st], a[ed]);
+        st = st + 1;
+        ed = ed - 1; // Corrected the decrement step for ed
+    }
+
+    // Printing the zigzag sequence
+    for (int i = 0; i < n; i++) {
+        if (i > 0) cout << " "; // Add space between numbers
+        cout << a[i];
+    }
+    cout << endl;
+}
+
+int main() {
+    int n, x;
+    int test_cases;
+    cin >> test_cases;
+
+    for (int cs = 1; cs <= test_cases; cs++) {
+        cin >> n;
+        vector<int> a;
+        for (int i = 0; i < n; i++) {
+            cin >> x;
+            a.push_back(x);
+        }
+        findZigZagSequence(a, n);
+    }
+
+    return 0;
+}

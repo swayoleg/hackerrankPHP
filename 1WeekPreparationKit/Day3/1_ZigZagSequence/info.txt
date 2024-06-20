@@ -1,1 +1,3 @@
 Test is not passign even thought the output is correct (((
+
+Tried on php, c++ and python - the same results that output is not expected even if it is

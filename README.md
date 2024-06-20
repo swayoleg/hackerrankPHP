@@ -26,7 +26,13 @@ This repository is structured to help you prepare for coding challenges. Each we
   - [7 Pangrams](3MonthPreparationKit%2FWeek2%2F7_Pangrams)
   - [9 Test Flipping The Matrix](3MonthPreparationKit%2FWeek2%2F9_TestFlippingTheMatrix)
 - [Week3](3MonthPreparationKit%2FWeek3)
-  -  [4 Sales By Match](3MonthPreparationKit%2FWeek3%2F4_SalesByMatch)
+   - [1_Permuting Two Arrays](3MonthPreparationKit%2FWeek3%2F1_PermutingTwoArrays)
+   - [2_SubarrayDivision2](3MonthPreparationKit%2FWeek3%2F2_SubarrayDivision2)
+   - [3 XOR Strings](3MonthPreparationKit%2FWeek3%2F3_XORStrings) - available in c++ only
+   - [4 Sales By Match](3MonthPreparationKit%2FWeek3%2F4_SalesByMatch)
+   - [7 Migratory Birds](3MonthPreparationKit%2FWeek3%2F7_MigratoryBirds)
+   - [8 Drawing Book](3MonthPreparationKit%2FWeek3%2F8_DrawingBook)
+   - [9 Test Between Two Sets](3MonthPreparationKit%2FWeek3%2F9_TestBetweenTwoSets)
 - [Week12](3MonthPreparationKit%2FWeek12)
   - [6 No Prefix Set](3MonthPreparationKit%2FWeek12%2F6_NoPrefixSet)
 - [Week 13](3MonthPreparationKit%2FWeek13)
@@ -87,7 +93,7 @@ This repository is structured to help you prepare for coding challenges. Each we
     - [3 Counting Sort](1WeekPreparationKit%2FDay2%2F3_CountingSort)
     - [4 Test](1WeekPreparationKit%2FDay2%2F4_Test)
   - [Day3](1WeekPreparationKit%2FDay3)
-    - [1 Zig Zag Sequence](1WeekPreparationKit%2FDay3%2F1_ZigZagSequence)
+    - [1 Zig Zag Sequence](1WeekPreparationKit%2FDay3%2F1_ZigZagSequence) - this one is not accepted by hackerrank even thought output is same as expected
     - [3 Caesar Cipher](1WeekPreparationKit%2FDay3%2F3_CaesarCipher)
     - [4 Test](1WeekPreparationKit%2FDay3%2F4_Test)
   - [Day4](1WeekPreparationKit%2FDay4)
@@ -110,7 +116,7 @@ php test.php
 
 - [Other Tasks](OtherTasks)
     - [1 Given an array of NN integers, find the number of subarrays that sum up to K.](OtherTasks%2F1)
-
+    - [2 Find the maximum result from an array of numbers using four mathematical operations](OtherTasks%2F2)
 ### At [OtherTasks](OtherTasks) you can find interesting tasks from different interviews and coding challenges.
 ## Coffee
 
