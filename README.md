@@ -34,7 +34,8 @@ This repository is structured to help you prepare for coding challenges. Each we
    - [8 Drawing Book](3MonthPreparationKit%2FWeek3%2F8_DrawingBook)
    - [9 Test Between Two Sets](3MonthPreparationKit%2FWeek3%2F9_TestBetweenTwoSets)
 -  [Week4](3MonthPreparationKit%2FWeek4)
-   - [1 Picking Numbers](3MonthPreparationKit%2FWeek4%2F1_PickingNumbers)
+   - [1 Picking Numbers](3MonthPreparationKit%2FWeek4%2F1_PickingNumbers)\
+   - [2 Left Rotation](3MonthPreparationKit%2FWeek4%2F2_LeftRotation)
 - [Week12](3MonthPreparationKit%2FWeek12)
   - [6 No Prefix Set](3MonthPreparationKit%2FWeek12%2F6_NoPrefixSet)
 - [Week 13](3MonthPreparationKit%2FWeek13)
