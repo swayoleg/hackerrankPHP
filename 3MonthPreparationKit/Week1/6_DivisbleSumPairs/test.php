@@ -35,8 +35,8 @@ for($i = 1; $i<3; $i++) {
     $ex2 = explode(' ', $a[1]);
     $n = intval($ex1[0]);
     $k = intval($ex1[1]);
-    array_map('trim', $ex2);
-    array_map('intval', $ex2);
+    $ex2 = array_map('trim', $ex2);
+    $ex2 = array_map('intval', $ex2);
     $result = divisibleSumPairs($n, $k, $ex2);
     $expectedResult = file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'testcases' . DIRECTORY_SEPARATOR . $i . '-output.txt');
     echo 'testcase '.$i.':' . PHP_EOL;

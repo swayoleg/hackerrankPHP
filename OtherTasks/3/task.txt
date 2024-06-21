@@ -1,0 +1,23 @@
+Celebrity lookup
+
+Problem Setup:
+
+You have a group of people.
+Some people may know others within the group.
+A celebrity is someone who knows no one but is known by everyone.
+You need to find a selebrity and return its index otherwise returl null;
+You dont have full matrix - instead you can ask one person if he knows another person with 'knows' method
+
+Constraints:
+You must minimize the number of calls to knows(a, b).
+
+For example -
+
+$arrayLength = 5;
+$knownMap[0] = [1,2,3,4];  // 0 knows 1, 2, 3, 4
+$knownMap[1] = [0,2,3,4]; // 1 knows 0, 2, 3, 4
+$knownMap[2] = [3];  // 2 knows 3
+$knownMap[3] = []; // 3 knows no one
+$knownMap[4] = [3, 1]; // 4 knows 3, 1
+// celebrity is 3 - he doesnt know anyone and everyone knows him
+so return 3 in this case
