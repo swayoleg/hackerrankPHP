@@ -120,6 +120,7 @@ php test.php
     - [1 Given an array of NN integers, find the number of subarrays that sum up to K.](OtherTasks%2F1)
     - [2 Find the maximum result from an array of numbers using four mathematical operations](OtherTasks%2F2)
     - [3 Celebrity lookup](OtherTasks%2F3)
+    - [4 House Robber](OtherTasks%2F4)
 ### At [OtherTasks](OtherTasks) you can find interesting tasks from different interviews and coding challenges.
 ## Coffee
 

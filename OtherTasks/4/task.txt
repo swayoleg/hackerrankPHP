@@ -1,0 +1,8 @@
+Problem Description:
+Given a street with houses, each containing a certain amount of money, represented by an array.
+The goal is to maximize the amount of money you can rob, with the constraint that you cannot rob two adjacent houses(near each other).
+
+Example:
+For the array [1, 2, 3, 1], the optimal solution is to rob houses 1 and 3, yielding a total of 4.
+For the array [5, 2, 4, 6], the optimal solution is to rob houses 1 and 4, yielding a total of 11.
+
