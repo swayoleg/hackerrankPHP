@@ -36,6 +36,11 @@ This repository is structured to help you prepare for coding challenges. Each we
 -  [Week4](3MonthPreparationKit%2FWeek4)
    - [1 Picking Numbers](3MonthPreparationKit%2FWeek4%2F1_PickingNumbers)\
    - [2 Left Rotation](3MonthPreparationKit%2FWeek4%2F2_LeftRotation)
+   - [3 Number Line Jumps](3MonthPreparationKit%2FWeek4%2F3_NumberLineJumps)
+   - [4 Separate The Number](3MonthPreparationKit%2FWeek4%2F4_SeparateTheNumber)
+   - [5 Closest Number](3MonthPreparationKit%2FWeek4%2F5_ClosestNumber)
+   - [7 Minimum Absolute Difference in an Array](3MonthPreparationKit%2FWeek4%2F7_MinimumAbsoluteDifferenceinanArray)
+   - [8 Caesar Cipher](3MonthPreparationKit%2FWeek4%2F8_CaesarCipher)
 - [Week12](3MonthPreparationKit%2FWeek12)
   - [6 No Prefix Set](3MonthPreparationKit%2FWeek12%2F6_NoPrefixSet)
 - [Week 13](3MonthPreparationKit%2FWeek13)
