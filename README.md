@@ -128,9 +128,5 @@ php test.php
     - [3 Celebrity lookup](OtherTasks%2F3)
     - [4 House Robber](OtherTasks%2F4)
 ### At [OtherTasks](OtherTasks) you can find interesting tasks from different interviews and coding challenges.
-## Coffee
-
-    If you want to by me a coffee - just do it:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/swayoleg)
+ 
 
